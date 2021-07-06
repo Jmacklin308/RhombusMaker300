@@ -1,0 +1,6 @@
+C:\dev\CSharp\PlayersGuide\whileLoops\whileLoops\bin\Debug\whileLoops.exe
+C:\dev\CSharp\PlayersGuide\whileLoops\whileLoops\bin\Debug\whileLoops.pdb
+C:\dev\CSharp\PlayersGuide\whileLoops\whileLoops\obj\Debug\whileLoops.csprojAssemblyReference.cache
+C:\dev\CSharp\PlayersGuide\whileLoops\whileLoops\obj\Debug\whileLoops.csproj.CoreCompileInputs.cache
+C:\dev\CSharp\PlayersGuide\whileLoops\whileLoops\obj\Debug\whileLoops.exe
+C:\dev\CSharp\PlayersGuide\whileLoops\whileLoops\obj\Debug\whileLoops.pdb
